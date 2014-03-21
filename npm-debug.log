@@ -7325,7 +7325,7 @@
 5215 verbose addNamed [ 'uglify-js', '~2.2.5' ]
 5216 verbose addNamed [ null, '>=2.2.5-0 <2.3.0-0' ]
 5217 silly lockFile 24940452-uglify-js-2-2-5 uglify-js@~2.2.5
-5218 verbose lock uglify-js@~2.2.5 C:\Users\sahil wavhal\AppData\Roaming\npm-cache\24940452-uglify-js-2-2-5.lock
+5218 verbose lock uglify-js@~2.2.5 C:\Users\sahilwavhal\AppData\Roaming\npm-cache\24940452-uglify-js-2-2-5.lock
 5219 silly addNameRange { name: 'promise', range: '>=2.0.0-0 <2.1.0-0', hasData: false }
 5220 silly addNameRange { name: 'css', range: '>=1.0.8-0 <1.1.0-0', hasData: false }
 5221 silly addNameRange { name: 'uglify-js',
