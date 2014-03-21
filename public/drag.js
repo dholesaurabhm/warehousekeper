@@ -1,3 +1,6 @@
+/*
+A sample project on Node.js for learning the framework.
+*/
 var curr_box_items_count;
 
 function max(shelf_no)

@@ -1,3 +1,6 @@
+/*
+A sample project on Node.js for learning the framework.
+*/
 var wdata = [
         {
                 arr: [],
